@@ -143,9 +143,21 @@
     },
     "done": true
   },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2025-03-26 22:16:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
     "criteria": {
       "has_item": "2025-03-26 22:10:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-03-26 22:15:48 +0000"
     },
     "done": true
   },
