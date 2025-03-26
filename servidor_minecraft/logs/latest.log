@@ -1139,3 +1139,17 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [26Mar2025 21:39:35.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.692s)! For help, type "help"
 [26Mar2025 21:39:35.736] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [26Mar2025 21:39:35.738] [Server thread/ERROR] [valkyrien_mod/]: Failed to load role data as role_data.json doesn't exist!
+[26Mar2025 21:50:44.867] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yankjo[/127.168.202.157:43093] logged in with entity id 2 at (-2.5, -60.0, 2.5)
+[26Mar2025 21:50:44.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yankjo joined the game
+[26Mar2025 21:51:18.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made uanjko a server operator
+[26Mar2025 21:51:35.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[26Mar2025 21:51:35.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: opYanjo<--[HERE]
+[26Mar2025 21:51:48.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made yanjko a server operator
+[26Mar2025 21:52:14.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[26Mar2025 21:52:14.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
+[26Mar2025 21:52:22.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[26Mar2025 21:53:19.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[26Mar2025 21:54:01.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made YanKJ a server operator
+[26Mar2025 21:54:15.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Yankjo a server operator
+[26Mar2025 21:54:26.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yankjo: Set own game mode to Creative Mode]
+[26Mar2025 21:54:34.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yankjo: Set the time to 1000]
