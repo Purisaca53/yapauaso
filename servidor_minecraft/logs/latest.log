@@ -1153,3 +1153,7 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [26Mar2025 21:54:15.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Yankjo a server operator
 [26Mar2025 21:54:26.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yankjo: Set own game mode to Creative Mode]
 [26Mar2025 21:54:34.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yankjo: Set the time to 1000]
+[26Mar2025 22:05:36.586] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yankjo lost connection: Disconnected
+[26Mar2025 22:05:36.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yankjo left the game
+[26Mar2025 22:06:18.598] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yankjo[/127.168.202.157:37159] logged in with entity id 18 at (3.837827947736748, -60.0, -13.2341405280628)
+[26Mar2025 22:06:18.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yankjo joined the game
