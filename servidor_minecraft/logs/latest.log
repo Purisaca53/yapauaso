@@ -1172,3 +1172,5 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [26Mar2025 22:26:41.637] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669948650000006E7, -58.999999954154006, -13.051470402628183] -> [-103.81777153536677, -57.20000000183772, 1.2290056650000006E7] returning empty list! this might break things
 [26Mar2025 22:27:01.486] [Server thread/INFO] [org.valkyrienskies.eureka.util.ShipAssembler/]: Assembled ship with 2 blocks, out of 32768 allowed
 [26Mar2025 22:28:59.923] [Server thread/INFO] [org.valkyrienskies.eureka.util.ShipAssembler/]: Assembled ship with 20 blocks, out of 32768 allowed
+[26Mar2025 22:32:36.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yankjo lost connection: Disconnected
+[26Mar2025 22:32:36.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yankjo left the game

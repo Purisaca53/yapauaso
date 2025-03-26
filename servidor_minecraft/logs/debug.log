@@ -10277,3 +10277,15 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [26Mar2025 22:29:00.189] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791360 : 768129
 [26Mar2025 22:29:00.189] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791360 : 768126
 [26Mar2025 22:29:00.189] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8ef8a413-07aa-425b-ab4e-a30db0f1ed94 watched ships: [5]
+[26Mar2025 22:29:35.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Mar2025 22:29:35.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Mar2025 22:30:41.887] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768128
+[26Mar2025 22:30:42.487] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768127
+[26Mar2025 22:30:42.838] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768128
+[26Mar2025 22:30:43.138] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768129
+[26Mar2025 22:30:43.890] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768128
+[26Mar2025 22:30:43.891] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8ef8a413-07aa-425b-ab4e-a30db0f1ed94 unwatched ships [4]
+[26Mar2025 22:32:36.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yankjo lost connection: Disconnected
+[26Mar2025 22:32:36.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yankjo left the game
+[26Mar2025 22:34:35.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Mar2025 22:34:35.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
