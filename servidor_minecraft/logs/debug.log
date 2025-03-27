@@ -10477,3 +10477,28 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [27Mar2025 17:16:28.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yankjo has made the advancement [Complex Curiosities]
 [27Mar2025 17:18:30.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Mar2025 17:18:30.954] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 17:23:30.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 17:23:30.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 17:28:13.093] [Server thread/INFO] [org.valkyrienskies.eureka.util.ShipAssembler/]: Assembled ship with 65 blocks, out of 32768 allowed
+[27Mar2025 17:28:13.298] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788032 : 768128
+[27Mar2025 17:28:13.298] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788033 : 768128
+[27Mar2025 17:28:13.298] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788032 : 768129
+[27Mar2025 17:28:13.298] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788033 : 768129
+[27Mar2025 17:28:13.298] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788032 : 768127
+[27Mar2025 17:28:13.298] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788033 : 768127
+[27Mar2025 17:28:13.298] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788031 : 768128
+[27Mar2025 17:28:13.298] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788031 : 768129
+[27Mar2025 17:28:13.298] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788034 : 768128
+[27Mar2025 17:28:13.298] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788034 : 768129
+[27Mar2025 17:28:13.299] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788032 : 768130
+[27Mar2025 17:28:13.299] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788033 : 768130
+[27Mar2025 17:28:13.299] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d88d8630-cb0e-4fe1-a89d-92d04e5e8ac5 watched ships: [24]
+[27Mar2025 17:28:30.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 17:28:30.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 17:32:02.064] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8608512625E7, -59.34313346604513, 455.20183017104864] -> [-1854.2003092095256, -57.54313351372885, 1.2290057625E7] returning empty list! this might break things
+[27Mar2025 17:32:07.066] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8608512625E7, -59.34308026757178, 439.38335189782083] -> [-1854.2014208808541, -57.543080315255494, 1.2290057625E7] returning empty list! this might break things
+[27Mar2025 17:32:12.115] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8608512625E7, -58.17499999701977, 390.04317865148187] -> [-1855.0319206304848, -51.33787145513085, 1.2290057625E7] returning empty list! this might break things
+[27Mar2025 17:32:17.117] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8608512625E7, -59.342640892926624, 378.45371146686375] -> [-1856.4374479465187, -57.54264094061034, 1.2290057625E7] returning empty list! this might break things
+[27Mar2025 17:32:22.117] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8608512625E7, -58.17499999701977, 325.90255255722633] -> [-1865.519062306732, -44.761336997151375, 1.2290057625E7] returning empty list! this might break things
+[27Mar2025 17:32:27.121] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8608512625E7, -58.50635380062108, 330.9778676302888] -> [-1881.0877287439293, -56.70635384830479, 1.2290057625E7] returning empty list! this might break things
+[27Mar2025 17:32:32.169] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8608512625E7, -59.338751262213215, 330.74468949250877] -> [-1881.1617326252162, -57.53875130989693, 1.2290057625E7] returning empty list! this might break things

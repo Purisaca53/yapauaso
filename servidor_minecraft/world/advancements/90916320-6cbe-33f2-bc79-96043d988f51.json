@@ -338,9 +338,21 @@
     },
     "done": true
   },
+  "create:recipes/decorations/andesite_scaffolding_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2025-03-27 17:23:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2025-03-27 16:54:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/speedometer": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
     },
     "done": true
   },
@@ -350,9 +362,39 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/chute": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2025-03-27 16:54:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cuckoo_clock": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/analog_lever": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/wrench": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-03-27 17:23:47 +0000"
     },
     "done": true
   },
@@ -368,9 +410,39 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/cart_assembler": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gantry_shaft": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-03-27 16:54:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rope_pulley": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/filter": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/white_sail": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
     },
     "done": true
   },
@@ -404,9 +476,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/water_wheel": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
+    },
+    "done": true
+  },
   "interiors:recipes/building_blocks/crafting/floor_chair/cyan_floor_chair_from_other_floor_chair": {
     "criteria": {
       "has_floor_chair": "2025-03-27 16:43:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_cogwheel_from_little": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
     },
     "done": true
   },
@@ -416,9 +500,21 @@
     },
     "done": false
   },
+  "create:recipes/misc/crafting/materials/andesite_alloy_block": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
+    },
+    "done": true
+  },
   "create:rose_quartz": {
     "criteria": {
       "0": "2025-03-27 17:16:26 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_stairs_from_conversion": {
+    "criteria": {
+      "has_item": "2025-03-27 17:27:24 +0000"
     },
     "done": true
   },
@@ -434,6 +530,30 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/clipboard": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/linear_chassis": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/wooden_bracket": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/big_cannon_sheet_inexpensive": {
+    "criteria": {
+      "has_inexpensive_big_cartridge_sheet": "2025-03-27 17:23:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
     "criteria": {
       "has_polished_rose_quartz": "2025-03-27 17:16:26 +0000"
@@ -443,6 +563,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-03-27 16:31:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/andesite_tunnel": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
     },
     "done": true
   },
@@ -458,15 +584,45 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/belt_connector": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/windmill_bearing": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
+    },
+    "done": true
+  },
   "interiors:recipes/building_blocks/crafting/floor_chair/orange_floor_chair_from_other_floor_chair": {
     "criteria": {
       "has_floor_chair": "2025-03-27 16:43:40 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/basin": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
+    },
+    "done": true
+  },
   "create:linked_controller": {
     "criteria": {
       "0": "2025-03-27 17:17:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_cogwheel": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/andesite_funnel": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
     },
     "done": true
   },
@@ -506,9 +662,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/curiosities/minecart_coupling": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-03-27 16:52:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_mixer": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
     },
     "done": true
   },
@@ -524,9 +692,21 @@
     },
     "done": true
   },
+  "create:recipes/decorations/andesite_ladder_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2025-03-27 17:23:47 +0000"
+    },
+    "done": true
+  },
   "interiors:recipes/building_blocks/crafting/floor_chair/gray_floor_chair_from_other_floor_chair": {
     "criteria": {
       "has_floor_chair": "2025-03-27 16:43:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/metal_girder": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
     },
     "done": true
   },
@@ -539,6 +719,12 @@
   "interiors:recipes/building_blocks/crafting/chair/red_chair_from_floor_chair": {
     "criteria": {
       "has_floor_chair": "2025-03-27 16:43:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/shaft": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
     },
     "done": true
   },
@@ -557,6 +743,12 @@
   "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2025-03-27 17:11:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hand_crank": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
     },
     "done": true
   },
@@ -584,15 +776,57 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/cogwheel": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_vertical_stairs_from_conversion": {
+    "criteria": {
+      "has_item": "2025-03-27 17:27:24 +0000"
+    },
+    "done": true
+  },
   "interiors:recipes/building_blocks/crafting/floor_chair/blue_floor_chair_from_other_floor_chair": {
     "criteria": {
       "has_floor_chair": "2025-03-27 16:43:40 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/turntable": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/contraption_controls": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
     "criteria": {
       "has_polished_rose_quartz": "2025-03-27 17:16:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_bars_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2025-03-27 17:23:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sticker": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
     },
     "done": true
   },
@@ -638,9 +872,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/metal_bracket": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/linked_controller": {
     "criteria": {
       "has_item": "2025-03-27 17:16:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/radial_chassis": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
     },
     "done": true
   },
@@ -656,15 +902,45 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/sticky_mechanical_piston": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
+    },
+    "done": true
+  },
   "interiors:recipes/building_blocks/crafting/floor_chair/white_floor_chair_from_other_floor_chair": {
     "criteria": {
       "has_floor_chair": "2025-03-27 16:43:40 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/goggles": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_block": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/createbigcannons/big_cannon_sheet_inexpensive": {
+    "criteria": {
+      "has_inexpensive_big_cartridge_sheet": "2025-03-27 17:23:02 +0000"
+    },
+    "done": true
+  },
   "interiors:recipes/building_blocks/crafting/chair/green_chair_from_floor_chair": {
     "criteria": {
       "has_floor_chair": "2025-03-27 16:43:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/display_board": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
     },
     "done": true
   },
@@ -683,6 +959,12 @@
   "interiors:recipes/building_blocks/crafting/floor_chair/yellow_floor_chair_from_other_floor_chair": {
     "criteria": {
       "has_floor_chair": "2025-03-27 16:43:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/piston_extension_pole": {
+    "criteria": {
+      "has_item": "2025-03-27 17:23:47 +0000"
     },
     "done": true
   },
