@@ -344,6 +344,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/freewheel_clutch": {
+    "criteria": {
+      "has_item": "2025-03-27 17:09:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2025-03-27 16:54:35 +0000"
@@ -404,9 +410,33 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-03-27 17:08:48 +0000"
+    },
+    "done": false
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-03-27 17:16:26 +0000"
+    },
+    "done": true
+  },
   "interiors:recipes/building_blocks/crafting/chair/light_blue_chair_from_floor_chair": {
     "criteria": {
       "has_floor_chair": "2025-03-27 16:43:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-03-27 17:09:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-03-27 17:16:26 +0000"
     },
     "done": true
   },
@@ -434,9 +464,27 @@
     },
     "done": true
   },
+  "create:linked_controller": {
+    "criteria": {
+      "0": "2025-03-27 17:17:32 +0000"
+    },
+    "done": true
+  },
   "interiors:recipes/building_blocks/crafting/floor_chair/black_floor_chair_from_other_floor_chair": {
     "criteria": {
       "has_floor_chair": "2025-03-27 16:43:40 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/linked_transmitter_from_conversion": {
+    "criteria": {
+      "has_item": "2025-03-27 17:16:23 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-03-27 17:10:06 +0000"
     },
     "done": true
   },
@@ -494,15 +542,33 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/crank_wheel": {
+    "criteria": {
+      "has_item": "2025-03-27 17:09:52 +0000"
+    },
+    "done": true
+  },
   "advancedperipherals:recipes/redstone/peripheral_casing": {
     "criteria": {
       "has_item": "2025-03-27 16:31:36 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-03-27 17:11:18 +0000"
+    },
+    "done": true
+  },
   "interiors:recipes/building_blocks/crafting/floor_chair/brown_floor_chair_from_other_floor_chair": {
     "criteria": {
       "has_floor_chair": "2025-03-27 16:43:40 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel_from_conversion": {
+    "criteria": {
+      "has_item": "2025-03-27 17:09:20 +0000"
     },
     "done": true
   },
@@ -524,9 +590,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-03-27 17:16:26 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_block_from_slabs": {
     "criteria": {
       "has_item": "2025-03-27 16:49:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2025-03-27 17:09:52 +0000"
     },
     "done": true
   },
@@ -557,6 +635,24 @@
   "interiors:recipes/building_blocks/crafting/floor_chair/light_gray_floor_chair_from_other_floor_chair": {
     "criteria": {
       "has_floor_chair": "2025-03-27 16:43:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/linked_controller": {
+    "criteria": {
+      "has_item": "2025-03-27 17:16:23 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_cogwheel": {
+    "criteria": {
+      "has_item": "2025-03-27 17:09:52 +0000"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2025-03-27 17:16:28 +0000"
     },
     "done": true
   },
