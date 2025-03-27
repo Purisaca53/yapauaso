@@ -338,5 +338,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-03-27 16:31:36 +0000"
+    },
+    "done": true
+  },
+  "advancedperipherals:recipes/redstone/peripheral_casing": {
+    "criteria": {
+      "has_item": "2025-03-27 16:31:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
